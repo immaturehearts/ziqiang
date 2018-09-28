@@ -23,7 +23,7 @@ test2
 <div style="color:#20385b"class="component component--heading-textblock text-oversized"> 
 <h1 class="heading"><big><big><big><big>Built for professional teams</h1> 
 <p>Bitbucket is more than just Git code management. Bitbucket gives teams one place to<br> plan projects,collaborate on code, test, and deploy.</p> 
-<image src="file:///Users/wangkexin/Desktop/get%20started.jpg" width=220 height=40alt=""/><br><br>
+<image src="https://github.com/immaturehearts/photo/blob/master/自强/get%20started.jpg" width=220 height=40alt=""/><br><br>
 </div> 
 <div class="component component--link-button"> 
 </div> 
