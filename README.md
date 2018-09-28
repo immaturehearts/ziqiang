@@ -12,7 +12,7 @@ test2
 <div style="height:70px" box-sizing=inherit>
 <nav>
 <div background-color="#FFF" box-shadow="0 2px 10px rgba(0,0,0,.25)">
-<image src="file:///Users/wangkexin/Desktop/up.jpg" hspace=200 width=1000 height=50 alt=""/>
+<image src="https://github.com/immaturehearts/photo/blob/master/自强/up.jpg" hspace=200 width=1000 height=50 alt=""/>
 </div>
 </nav>
 </div>
@@ -27,7 +27,7 @@ test2
 </div> 
 <div class="component component--link-button"> 
 </div> 
-<div align="center" class="component component--textblock text-link" style="margin-right:-3px;"> 
+<div align="centerfile:///Users/wangkexin/Desktop/up.jpg" class="component component--textblock text-link" style="margin-right:-3px;"> 
 Or host it yourself with   <I><U>Bitbucket Enterprise</U></I>
 </div> 
 
