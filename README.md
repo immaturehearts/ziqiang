@@ -12,7 +12,7 @@ test2
 <div style="height:70px" box-sizing=inherit>
 <nav>
 <div background-color="#FFF" box-shadow="0 2px 10px rgba(0,0,0,.25)">
-<image src="https://github.com/immaturehearts/photo/blob/master/自强/up.jpg" hspace=50 width=1000 height=50 alt=""/>
+<image src="https://github.com/immaturehearts/photo/blob/master/自强/up.jpg" hspace=40 width=1000 height=50 alt=""/>
 </div>
 </nav>
 </div>
